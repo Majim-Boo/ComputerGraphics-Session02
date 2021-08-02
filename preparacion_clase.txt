@@ -1,5 +1,5 @@
 
-Introduction to Computer Graphics Using Java 2D and 3D. Klawonn Frank. Páginas 7 a 10.
+Introduction to Computer Graphics Using Java 2D and 3D. Klawonn Frank. Páginas 7 a 10
 
 *Librerías gráficas*
 https://www.3djuegos.com/noticias-ver/191605/api-o-librerias-graficas-que-son-y-para-que-sirven/
